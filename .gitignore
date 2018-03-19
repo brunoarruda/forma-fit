@@ -1,0 +1,9 @@
+# Google drive file
+desktop.ini
+
+# Log file
+*.log
+
+# Local files
+mock
+tmp
